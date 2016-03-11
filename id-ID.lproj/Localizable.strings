@@ -1,0 +1,47 @@
+/*
+ Localizable.strings
+ face plus
+ 
+ Created by linxudong on 15/2/12.
+ Copyright (c) 2015年 Willian. All rights reserved.
+ */
+"buy"="membeli";
+"share bonus"= "saham Penghargaan";
+"waiting"="di tunggu";
+"loading"="pemuatan";
+"Nice work,Face Pro is such an amazing application!"="Nice work, Wajah Pro adalah aplikasi seperti biasa!";
+"Bonus"="Penghargaan";
+"Done"="matang";
+"This portrait has been saved to your photo album."="Simpan ke album";
+"Notice"="pemberitahuan";
+"There is no camera found!"="Tidak ada kamera yang ditemukan";
+"No camera supported"="Tidak ada kamera didukung";
+"Flashlight not found"="Senter tidak ditemukan";
+"No internet connection"="Tidak ada koneksi internet";
+"Fetching info from AppStore..."="Mengambil info dari AppStore...";
+"Restoring"="memulihkan";
+"Restoration done"="restorasi dilakukan";
+"Ready to save portrait to photo library?"="Menyimpan foto ke album?";
+"Choose one of the tool to share with."="Pilih Share cara";
+"Cancel"="Tidak Jadi";
+"Please try it again later.Saving Failed"="gagal menyimpan";
+"Saving"="hemat";
+"Share with friends"="Berbagi dengan teman";
+"Locked parts are randomly rewarded."="Bagian terkunci secara acak dihargai";
+"Leaving"="meninggalkan";
+"Leave without saving?"="Tinggalkan tanpa menyimpan?";
+"Leave tutorial?"="Tinggalkan tutorial?";
+"Delete"="Hapus";
+"Edit"="sunting";
+"Leave"="meninggalkan";
+"NO"="TAK ADA";
+"No,Thanks."="Tidak, Terima Kasih";
+"Rate"="laju";
+"Download"="Download";
+"Guitar effect"="efek gitar";
+"Use"="penggunaan";
+"Enter some words"="Masukkan beberapa kata";
+"Word"="kata";
+"Add words into the scene."="Menambahkan kata ke TKP";
+"Bought"="dibeli";
+

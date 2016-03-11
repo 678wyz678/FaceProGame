@@ -1,0 +1,47 @@
+/*
+ Localizable.strings
+ face plus
+ 
+ Created by linxudong on 15/2/12.
+ Copyright (c) 2015年 Willian. All rights reserved.
+ */
+"buy"="사기";
+"share bonus"= "몫 보너스";
+"waiting"="기다리는";
+"loading"="로드";
+"Nice work,Face Pro is such an amazing application!"="좋은 작품은,Face Pro 이러한 놀라운 응용 프로그램입니다!";
+"Bonus"="보너스";
+"Done"="끝난";
+"This portrait has been saved to your photo album."="앨범에 저장";
+"Notice"="통지";
+"There is no camera found!"="발견 어떤 카메라가 없습니다!";
+"No camera supported"="카메라 기능을 지원하지 않는 디바이스";
+"Flashlight not found"="플래시 비";
+"No internet connection"="인터넷에 연결되지 않습니다";
+"Fetching info from AppStore..."="서버에서 정보를 얻...";
+"Restoring"="복원";
+"Restoration done"="복원 완료";
+"Ready to save portrait to photo library?"="사진 라이브러리에 초상화를 저장할 준비?";
+"Choose one of the tool to share with."="공유 방법을 선택합니다";
+"Cancel"="취소";
+"Please try it again later.Saving Failed"="저장하지 못했습니다";
+"Saving"="절약";
+"Share with friends"="친구와 공유하기";
+"Locked parts are randomly rewarded."="구성 요소를 공유 한 후 수수료를 무작위";
+"Leaving"="떠나";
+"Leave without saving?"="저장하지 않고 종료?";
+"Leave tutorial?"="튜토리얼을 남겨주세요?";
+"Delete"="삭제";
+"Edit"="편집";
+"Leave"="휴가";
+"NO"="아니";
+"No,Thanks."="아니, 감사합니다";
+"Rate"="율";
+"Download"="다운로드";
+"Guitar effect"="기타 사운드";
+"Use"="용도";
+"Enter some words"="일부 단어를 입력";
+"Word"="워드";
+"Add words into the scene."="현장에 단어 추가";
+"Bought"="구매";
+

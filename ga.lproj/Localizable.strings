@@ -1,0 +1,47 @@
+/*
+ Localizable.strings
+ face plus
+ 
+ Created by linxudong on 15/2/12.
+ Copyright (c) 2015年 Willian. All rights reserved.
+ */
+"buy"="cheannach";
+"share bonus"= "scair bónas";
+"waiting"="ag fanacht";
+"loading"="luchtú";
+"Nice work,Face Pro is such an amazing application!"="Obair Nice, iarratas den sórt sin iontach go bhfuil Face Pro.";
+"Bonus"="bónas";
+"Done"="rinneadh";
+"This portrait has been saved to your photo album."="Sábháil do albam";
+"Notice"="Fógra";
+"There is no camera found!"="Níl aon ceamara le fáil";
+"No camera supported"="Níl ceamara tacaíocht";
+"Flashlight not found"="Flashlight gan aimsiú";
+"No internet connection"="Aon nasc idirlín";
+"Fetching info from AppStore..."="Ag fáil eolas ó AppStore...";
+"Restoring"="a athchóiriú";
+"Restoration done"="Athchóiriú a dhéanamh";
+"Ready to save portrait to photo library?"="Sábháil an íomhá a albam?";
+"Choose one of the tool to share with."="Roghnaigh Comhroinn ar bhealach";
+"Cancel"="Cealaigh";
+"Please try it again later.Saving Failed"="theip ar shábháil";
+"Saving"="shábháil";
+"Share with friends"="Comhroinn le cairde";
+"Locked parts are randomly rewarded."="Páirteanna Ghlas bronntar randamach";
+"Leaving"="Ardteistiméireacht";
+"Leave without saving?"="Fág gan sábháil?";
+"Leave tutorial?"="Fág teagaisc?";
+"Delete"="Scrios";
+"Edit"="eagar";
+"Leave"="Fág";
+"NO"="Níl";
+"No,Thanks."="No, Go raibh maith agat";
+"Rate"="scór";
+"Download"="Íosluchtaigh";
+"Guitar effect"="giotár Fuaim";
+"Use"="Úsáid";
+"Enter some words"="Cuir isteach roinnt focail";
+"Word"="focal";
+"Add words into the scene."="Cuir focail isteach ar an radharc";
+"Bought"="cheannaigh";
+

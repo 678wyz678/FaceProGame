@@ -1,0 +1,47 @@
+/*
+ Localizable.strings
+ face plus
+ 
+ Created by linxudong on 15/2/12.
+ Copyright (c) 2015年 Willian. All rights reserved.
+ */
+"buy"="購買";
+"share bonus"= "獎勵你一個身體部件,請查收於脖子圖庫(下次啟動軟件生效),是否要為Face pro寫個評分呢?";
+"waiting"="稍等";
+"loading"="加載中";
+"Nice work,Face Pro is such an amazing application!"="酷炫賣萌捏臉,Face pro你值得擁有.";
+"Bonus"="獎勵";
+"Done"="取消";
+"This portrait has been saved to your photo album."="保存至相冊";
+"Notice"="注意信息";
+"There is no camera found!"="您的設備沒有照相機";
+"No camera supported"="設備不支持拍照功能";
+"Flashlight not found"="沒有閃光燈";
+"No internet connection"="無互聯網連接，請重試";
+"Fetching info from AppStore..."="從服務器獲取信息中...";
+"Restoring"="努力恢復中";
+"Restoration done"="恢復完成";
+"Ready to save portrait to photo library?"="保存形象至相冊?";
+"Choose one of the tool to share with."="選擇分享方式";
+"Cancel"="取消";
+"Please try it again later.Saving Failed"="保存失敗";
+"Saving"="保存中";
+"Share with friends"="和朋友分享";
+"Locked parts are randomly rewarded."="分享後隨機獲得收費部件";
+"Leaving"="離開";
+"Leave without saving?"="不保存直接退出?";
+"Leave tutorial?"="是否離開教程?";
+"Delete"="刪除";
+"Edit"="加載";
+"Leave"="離開";
+"NO"="不";
+"No,Thanks."="不用了";
+"Rate"="給個分";
+"Download"="下載";
+"Guitar effect"="吉他音效";
+"Use"="使用";
+"Enter some words"="輸入文字";
+"Word"="文字";
+"Add words into the scene."="給肖像添加文字";
+"Bought"="已購";
+

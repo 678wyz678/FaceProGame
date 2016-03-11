@@ -1,0 +1,19 @@
+PODS:
+  - ASCFlatUIColor (0.1.0)
+  - FXBlurView (1.6.3)
+  - pop (1.0.7)
+  - SCLAlertView-Objective-C (0.3.4)
+
+DEPENDENCIES:
+  - ASCFlatUIColor
+  - FXBlurView
+  - pop
+  - SCLAlertView-Objective-C
+
+SPEC CHECKSUMS:
+  ASCFlatUIColor: 3c47117c9fb4b88f7ae6c9a3a28d1ccd87161b90
+  FXBlurView: abe1046285813c4f6e9008abbc324fc5ab32af90
+  pop: 2f14a1ea61339767af9e66741b418c831b3844df
+  SCLAlertView-Objective-C: 9b5d7eca5fd283034d9ec05be4add5433f7c3bc7
+
+COCOAPODS: 0.35.0

@@ -1,0 +1,47 @@
+/*
+ Localizable.strings
+ face plus
+ 
+ Created by linxudong on 15/2/12.
+ Copyright (c) 2015年 Willian. All rights reserved.
+ */
+"buy"="купить";
+"share bonus"= "доля бонус";
+"waiting"="ожидание";
+"loading"="загрузка";
+"Nice work,Face Pro is such an amazing application!"="Хорошая работа,Face pro такова удивительное приложение.";
+"Bonus"="бонус";
+"Done"="oтменить";
+"This portrait has been saved to your photo album."="Сохранить в альбом";
+"Notice"="уведомление";
+"There is no camera found!"="Там нет камеры нашли";
+"No camera supported"="Не поддерживается ни одна камера";
+"Flashlight not found"="Фонарик не найдены";
+"No internet connection"="Нет подключения к Интернету";
+"Fetching info from AppStore..."="Получение информации из AppStore...";
+"Restoring"="Восстановление";
+"Restoration done"="Восстановление сделано";
+"Ready to save portrait to photo library?"="Сохранить изображение в альбом?";
+"Choose one of the tool to share with."="Выберите Share путь";
+"Cancel"="отменить";
+"Please try it again later.Saving Failed"="Не удалось сохранить";
+"Saving"="экономия";
+"Share with friends"="Поделиться с друзьями";
+"Locked parts are randomly rewarded."="Тема закрыта части случайным образом вознаграждены";
+"Leaving"="уход";
+"Leave without saving?"="Отпуск без сохранения?";
+"Leave tutorial?"="Оставьте учебник?";
+"Delete"="удалять";
+"Edit"="редактировать";
+"Leave"="оставлять";
+"NO"="Нет";
+"No,Thanks."="Нет,благодаря";
+"Rate"="Гол";
+"Download"="скачать";
+"Guitar effect"="гитарный звук";
+"Use"="использование";
+"Enter some words"="Введите несколько слов";
+"Word"="письмо";
+"Add words into the scene."="Добавить текст к портрету";
+"Bought"="купленный";
+

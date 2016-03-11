@@ -1,0 +1,47 @@
+/*
+ Localizable.strings
+ face plus
+ 
+ Created by linxudong on 15/2/12.
+ Copyright (c) 2015年 Willian. All rights reserved.
+ */
+"buy"="ซื้อ";
+"share bonus"= "หุ้น โบนัส";
+"waiting"="ที่รอ";
+"loading"="โหลด";
+"Nice work,Face Pro is such an amazing application!"="งานที่ดี,Face pro คุณสมควรได้รับ.";
+"Bonus"="โบนัส";
+"Done"="ทำเสร็จแล้ว";
+"This portrait has been saved to your photo album."="บันทึกไปที่อัลบั้ม";
+"Notice"="แจ้งให้ทราบ";
+"There is no camera found!"="มีกล้องไม่พบก็คือ";
+"No camera supported"="กล้องไม่ได้รับการสนับสนุน";
+"Flashlight not found"="ไฟฉายไม่พบ";
+"No internet connection"="การเชื่อมต่ออินเทอร์เน็ต";
+"Fetching info from AppStore..."="ดึงข้อมูลจาก AppStore...";
+"Restoring"="การกู้คืน";
+"Restoration done"="ฟื้นฟูทำ";
+"Ready to save portrait to photo library?"="พร้อมที่จะบันทึกภาพไปยังห้องสมุดภาพ?";
+"Choose one of the tool to share with."="เลือกหนึ่งในเครื่องมือที่จะใช้ร่วมกับ";
+"Cancel"="ยกเลิก";
+"Please try it again later.Saving Failed"="ไม่สามารถบันทึก";
+"Saving"="ประหยัด";
+"Share with friends"="ร่วมกับเพื่อน";
+"Locked parts are randomly rewarded."="ชิ้นส่วนที่ถูกใส่กุญแจจะได้รับรางวัลโดยการสุ่ม";
+"Leaving"="การออกจาก";
+"Leave without saving?"="ออกไปโดยไม่ประหยัด?";
+"Leave tutorial?"="ออกจากการกวดวิชา?";
+"Delete"="ลบ";
+"Edit"="แก้ไข";
+"Leave"="ออกจาก";
+"NO"="ไม่";
+"No,Thanks."="ไม่ขอบคุณ";
+"Rate"="คะแนน";
+"Download"="ดาวน์โหลด";
+"Guitar effect"="เสียงกีต้าร์";
+"Use"="ใช้";
+"Enter some words"="ใส่คำบางคำ";
+"Word"="คำ";
+"Add words into the scene."="เพิ่มคำลงในที่เกิดเหตุ";
+"Bought"="ซื้อไปแล้ว";
+

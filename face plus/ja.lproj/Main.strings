@@ -1,0 +1,75 @@
+
+/* Class = "IBUILabel"; text = "Export image size"; ObjectID = "2hc-0N-ojj"; */
+"2hc-0N-ojj.text" = "エクスポート写真サイズ";
+
+/* Class = "IBUINavigationItem"; title = "Gallery"; ObjectID = "3Jl-9j-c4z"; */
+"3Jl-9j-c4z.title" = "ギャラリー";
+
+/* Class = "IBUIButton"; normalTitle = "4:3"; ObjectID = "3iw-4S-hPU"; */
+"3iw-4S-hPU.normalTitle" = "4:3";
+
+/* Class = "IBUILabel"; text = "导出照片尺寸"; ObjectID = "ArQ-Rt-YFw"; */
+"ArQ-Rt-YFw.text" = "エクスポート写真サイズ";
+
+/* Class = "IBUILabel"; text = "4:3"; ObjectID = "EuT-5G-J0C"; */
+"EuT-5G-J0C.text" = "4:3";
+
+/* Class = "IBUILabel"; text = "Sound"; ObjectID = "FPc-VX-zEd"; */
+"FPc-VX-zEd.text" = "サウンド";
+
+/* Class = "IBUIButton"; normalTitle = "购买"; ObjectID = "GUB-lp-u7g"; */
+"GUB-lp-u7g.normalTitle" = "購入";
+
+/* Class = "IBUIButton"; normalTitle = "restore"; ObjectID = "Lq0-Gk-2Ng"; */
+"Lq0-Gk-2Ng.normalTitle" = "回復を購入する";
+
+/* Class = "IBUILabel"; text = "6元"; ObjectID = "LxH-YD-Vfm"; */
+"LxH-YD-Vfm.text" = "6元";
+
+/* Class = "IBUIButton"; normalTitle = "P"; ObjectID = "PZ8-Gt-xug"; */
+"PZ8-Gt-xug.normalTitle" = "P";
+
+/* Class = "IBUIButton"; normalTitle = "package_cell"; ObjectID = "QDR-lB-cPs"; */
+"QDR-lB-cPs.normalTitle" = "package_cell";
+
+/* Class = "IBUILabel"; text = "开启音效"; ObjectID = "ROm-Vt-jUh"; */
+"ROm-Vt-jUh.text" = "オープンサウンド";
+
+/* Class = "IBUIButton"; normalTitle = "$0.99"; ObjectID = "Re6-8m-MbN"; */
+"Re6-8m-MbN.normalTitle" = "$0.99";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Sound"; ObjectID = "SKT-jX-9hr"; */
+"SKT-jX-9hr.headerTitle" = "サウンド";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Other"; ObjectID = "Tpu-Bm-f1r"; */
+"Tpu-Bm-f1r.headerTitle" = "その他";
+
+/* Class = "IBUIButton"; normalTitle = "bu"; ObjectID = "W7C-r1-W2G"; */
+"W7C-r1-W2G.normalTitle" = "bu";
+
+/* Class = "IBUILabel"; text = "Electric sound"; ObjectID = "bdW-Au-sVt"; */
+"bdW-Au-sVt.text" = "電子音";
+
+/* Class = "IBUIButton"; normalTitle = "N"; ObjectID = "heT-qL-Wew"; */
+"heT-qL-Wew.normalTitle" = "N";
+
+/* Class = "IBUINavigationItem"; title = "Play"; ObjectID = "hvI-vE-EPJ"; */
+"hvI-vE-EPJ.title" = "遊ぶ";
+
+/* Class = "IBUINavigationItem"; title = "hahaha"; ObjectID = "oA0-4l-e7F"; */
+"oA0-4l-e7F.title" = "hahaha";
+
+/* Class = "IBUINavigationItem"; title = "全局设置"; ObjectID = "oEB-ba-bMC"; */
+"oEB-ba-bMC.title" = "セットアップ";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "pPc-Bd-A4u"; */
+"pPc-Bd-A4u.title" = "リターン";
+
+/* Class = "IBUIButton"; normalTitle = "package_cell"; ObjectID = "rzL-Wi-uGX"; */
+"rzL-Wi-uGX.normalTitle" = "package_cell";
+
+/* Class = "IBUIButton"; normalTitle = "package_cell"; ObjectID = "s1O-6S-3Ui"; */
+"s1O-6S-3Ui.normalTitle" = "package_cell";
+
+/* Class = "IBUINavigationItem"; title = "Store"; ObjectID = "y2o-hf-wzf"; */
+"y2o-hf-wzf.title" = "店舗";

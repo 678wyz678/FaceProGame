@@ -1,0 +1,47 @@
+/*
+ Localizable.strings
+ face plus
+ 
+ Created by linxudong on 15/2/12.
+ Copyright (c) 2015年 Willian. All rights reserved.
+ */
+"buy"="kaufen";
+"share bonus"= "Belohnen Sie ein Körperteil, überprüfen Sie bitte in den Hals Gallery(Nächstes Mal, wenn Sie die Software wirksam werden starten),Möchten Sie eine Punktzahl für Face Pro noch schreiben wollen?";
+"waiting"="warten";
+"loading"="wird geladen";
+"Nice work,Face Pro is such an amazing application!"="Gute Arbeit,Face pro ist so ein tolles Anwendung!";
+"Bonus"="Belohnung";
+"Done"="Rückgängig Machen";
+"This portrait has been saved to your photo album."="Sparen Sie zum Album";
+"Notice"="Ankündigung";
+"There is no camera found!"="Es gibt keine Kamera gefunden!";
+"No camera supported"="Keine Kamera unterstützt";
+"Flashlight not found"="Taschenlampe nicht gefunden";
+"No internet connection"="Keine Internetverbindung";
+"Fetching info from AppStore..."="Holen Informationen im Appstore...";
+"Restoring"="Wiederherstellen";
+"Restoration done"="Restaurierung getan";
+"Ready to save portrait to photo library?"="Speichern von Bildern in ein Album?";
+"Choose one of the tool to share with."="Wählen Teilen Weg";
+"Cancel"="Rückgängig Machen";
+"Please try it again later.Saving Failed"="Fehler beim Speichern";
+"Saving"="Sparen";
+"Share with friends"="Mit Freunden teilen";
+"Locked parts are randomly rewarded."="Gesperrt Teile zufällig belohnt";
+"Leaving"="Austritt";
+"Leave without saving?"="Verlassen ohne zu speichern?";
+"Leave tutorial?"="Lassen Tutorial?";
+"Delete"="löschen";
+"Edit"="Last";
+"Leave"="Stehen Lassen";
+"NO"="Nicht";
+"No,Thanks."="Nicht,Danke Shon";
+"Rate"="Preis";
+"Download"="Herunterladen";
+"Guitar effect"="Gitarrensound";
+"Use"="Verwendung";
+"Enter some words"="Geben Sie den Text";
+"Word"="Wort";
+"Add words into the scene."="Fügen Sie Wörter in die Szene";
+"Bought"="Gekauft";
+

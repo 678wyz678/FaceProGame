@@ -1,0 +1,47 @@
+/*
+ Localizable.strings
+ face plus
+ 
+ Created by linxudong on 15/2/12.
+ Copyright (c) 2015年 Willian. All rights reserved.
+ */
+"buy"="comprar";
+"share bonus"= "cuota prima";
+"waiting"="espera";
+"loading"="loading";
+"Nice work,Face Pro is such an amazing application!"="Buen trabajo,Face pro es una aplicación increíble.";
+"Bonus"="Recompensa";
+"Done"="Cancelar";
+"This portrait has been saved to your photo album."="Guardar en álbum";
+"Notice"="Aviso";
+"There is no camera found!"="No hay cámara encontrada!";
+"No camera supported"="Ninguna cámara apoyada";
+"Flashlight not found"="Linterna que no se encuentra";
+"No internet connection"="No hay conexión a internet";
+"Fetching info from AppStore..."="Obtención de información a partir de la AppStore...";
+"Restoring"="Restauración";
+"Restoration done"="Restauración hacer";
+"Ready to save portrait to photo library?"="Guarda la imagen en un álbum?";
+"Choose one of the tool to share with."="Seleccione Compartir manera";
+"Cancelar"="取消";
+"Please try it again later.Saving Failed"="Error al guardar";
+"Saving"="Ahorro";
+"Share with friends"="Compartir con tus amigos";
+"Locked parts are randomly rewarded."="Partes bloqueadas son recompensados al azar";
+"Leaving"="Dejando";
+"Leave without saving?"="Deja sin guardar?";
+"Leave tutorial?"="Deja tutorial?";
+"Delete"="Borrar";
+"Edit"="Editar";
+"Leave"="Dejar";
+"NO"="No";
+"No,Thanks."="No,Gracias";
+"Rate"="Tarifa";
+"Download"="Descargar";
+"Guitar effect"="Guitar Sound";
+"Use"="Uso";
+"Enter some words"="Introduzca el texto";
+"Word"="Palabra";
+"Add words into the scene."="Añadir texto al retrato";
+"Bought"="Comprado";
+

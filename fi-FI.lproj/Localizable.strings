@@ -1,0 +1,47 @@
+/*
+ Localizable.strings
+ face plus
+ 
+ Created by linxudong on 15/2/12.
+ Copyright (c) 2015年 Willian. All rights reserved.
+ */
+"buy"="ostaa";
+"share bonus"= "osuus bonus";
+"waiting"="odotus";
+"loading"="lastaus";
+"Nice work,Face Pro is such an amazing application!"="Hyvää työtä, Face Pro on niin hämmästyttävä sovellus.";
+"Bonus"="bonus";
+"Done"="tehty";
+"This portrait has been saved to your photo album."="Tallenna albumi";
+"Notice"="ilmoitus";
+"There is no camera found!"="Ei ole kamera löytyi";
+"No camera supported"="Kameraa ei tueta";
+"Flashlight not found"="Taskulamppu ei löytynyt";
+"No internet connection"="Ei internet-yhteyttä";
+"Fetching info from AppStore..."="Haetaan info AppStore...";
+"Restoring"="palauttaminen";
+"Restoration done"="Restaurointi tehty";
+"Ready to save portrait to photo library?"="Valmis tallentaa pystyasennosta valokuvakirjastoon?";
+"Choose one of the tool to share with."="Valitse Share tapa";
+"Cancel"="peruuttaa";
+"Please try it again later.Saving Failed"="tallennus epäonnistui";
+"Saving"="säästö";
+"Share with friends"="Jaa ystävien kanssa";
+"Locked parts are randomly rewarded."="Lukittu osat satunnaisesti palkitaan";
+"Leaving"="Leaving...";
+"Leave without saving?"="Poistua tallentamatta?";
+"Leave tutorial?"="jätä opetusohjelma?";
+"Delete"="poistaa";
+"Edit"="muokata";
+"Leave"="jättää";
+"NO"="ei";
+"No,Thanks."="Kiitos ei";
+"Rate"="pisteet";
+"Download"="Lataa";
+"Guitar effect"="Guitar Sound";
+"Use"="käyttö";
+"Enter some words"="nna joitakin sanoja";
+"Word"="sana";
+"Add words into the scene."="Lisää sanoja kohtaus";
+"Bought"="Osti";
+

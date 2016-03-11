@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  face plus
+
+  Created by linxudong on 15/2/12.
+  Copyright (c) 2015年 Willian. All rights reserved.
+*/
+"buy"="購買";
+"share bonus"= "体の一部分を奨励して、ネック写真データベースの中でチエックしてください。(次の打ち上げ後に有効),あなたがそれをソフトウェアのスコアを書いてみませんか？";
+"waiting"="少々お待ちください";
+"loading"="ダウンロード中";
+"Nice work,Face Pro is such an amazing application!"="よくやった！さすがFace Pro!";
+"Bonus"="奨励";
+"Done"="OK";
+"This portrait has been saved to your photo album."="アルバムに保存した";
+"Notice"="注意";
+"There is no camera found!"="カメラが発見されなかった";
+"Flashlight not found"="フラッシュが発見されなかった";
+"No internet connection"="インターネットが通じない,もう一度やってください";
+"Fetching info from AppStore..."="AppStore から情報をゲット中";
+"Restoring"="一生懸命回復中";
+"Restoration done"="回復完成";
+"Ready to save portrait to photo library?"="イメージをアルバムに保存するか";
+"Choose one of the tool to share with."="シィアする道具を選択してください";
+"Cancel"="キャンセル";
+"Please try it again later.Saving Failed"="後でもう一度やりましょう";
+"Saving"="保存中";
+"Share with friends"="友達とシィアしよう";
+"Locked parts are randomly rewarded."="シィア後有料な部品をランダムであげる";
+"Leaving"="アウト";
+"Leave without saving?"="保存しないままアウト";
+"Leave tutorial?"="マニュアルから退出";
+"Delete"="削除";
+"Edit"="編集";
+"Leave"="退出";
+"NO"="しない";
+"No,Thanks."="しない";
+"Rate"="レビュー";
+"Download"="ダウンロード";
+"Guitar effect"="ギター";
+"Use"="使用";
+"Enter some words"="文字を入力";
+"Word"="文字";
+"No camera supported"="カメラの支持がない";
+"Add words into the scene."="添加文字";
+"Bought"="Bought";
+

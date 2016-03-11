@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>package_all</key>
+	<integer>6</integer>
+	<key>package_body_1</key>
+	<integer>5</integer>
+	<key>package_rock_1</key>
+	<integer>2</integer>
+	<key>package_future_1</key>
+	<integer>4</integer>
+	<key>package_animal_1</key>
+	<integer>1</integer>
+	<key>package_zombie_1</key>
+	<integer>3</integer>
+</dict>
+</plist>

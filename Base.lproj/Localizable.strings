@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  face plus
+
+  Created by linxudong on 15/2/12.
+  Copyright (c) 2015年 Willian. All rights reserved.
+*/
+"buy"="Buy";
+"share bonus"= "Award you with body part for free.(Valid after next launch),and we appreciate for your rating on our application";
+"waiting"="waiting";
+"loading"="Loading";
+"Nice work,Face Pro is such an amazing application!"="Nice work,Face Pro is such an amazing application!";
+"Bonus"="Bonus";
+"Done"="Done";
+"This portrait has been saved to your photo album."="This portrait has been saved to your photo album.";
+"Notice"="Notice";
+"There is no camera found!"="There is no camera found!";
+"Flashlight not found"="Flashlight not found";
+"No internet connection"="No internet connection";
+"Fetching info from AppStore..."="Fetching info from AppStore...";
+"Restoring"="Restoring";
+"Restoration done"="Restoration done";
+"Ready to save portrait to photo library?"="Ready to save portrait to photo library?";
+"Choose one of the tool to share with."="Choose one of the tool to share with.";
+"Cancel"="Cancel";
+"Please try it again later.Saving Failed"="Please try it again later.Saving Failed";
+"Saving"="Saving";
+"Share with friends"="Share with friends";
+"Locked parts are randomly rewarded."="Locked parts are randomly rewarded.";
+"Leaving"="Leaving";
+"Leave without saving?"="Leave without saving?";
+"Leave tutorial?"="Leave tutorial?";
+"Delete"="Delete";
+"Edit"="Edit";
+"Leave"="Leave";
+"NO"="NO";
+"No,Thanks."="No,Thanks.";
+"Rate"="Rate";
+"Download"="Download";
+"Guitar effect"="Guitar effect";
+"Use"="Use";
+"Enter some words"="Enter some words";
+"Word"="Word";
+"No camera supported"="No camera supported";
+"Add words into the scene."="Add words into the scene.";
+"Bought"="Bought";
+"Choose part and start to shake"="Choose part and start to shake";
