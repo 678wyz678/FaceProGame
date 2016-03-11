@@ -1,5 +1,5 @@
 # FacePro, A brilliant tool to generate your comic weird portrait which is based on Sprite Kit.
-
+# Check this on [AppStore](https://itunes.apple.com/cn/app/zao-can-ba-shi/id934741264?l=zh&ls=1&mt=8)
 1. en:I develop this game when I was junior in USST, (now I am senior and ready to graduate).
 
 1. zh:我在上大三（上海理工大小）的时候开发的这款游戏,现在快毕业了
