@@ -1,19 +1,23 @@
 # FacePro, A brilliant tool to generate your comic weird portrait which is based on Sprite Kit.
 # Check this on [AppStore](https://itunes.apple.com/cn/app/zao-can-ba-shi/id934741264?l=zh&ls=1&mt=8)
-1. en:I develop this game when I was junior in USST, (now I am senior and ready to graduate).
+en:I develop this game when I was junior in USST, (now I am senior and ready to graduate).
 
-1. zh:我在上大三（上海理工大小）的时候开发的这款游戏,现在快毕业了
+zh:我在上大三（上海理工大学）的时候开发的这款游戏,现在快毕业了
 
-2. en: I still try to find a good job on iOS development, please feel free to mail me to provide any opputunity.`cjx5813{at}foxmail.com`
 
-2. zh: 本人还在尽力寻找好的iOS开发工作，如果有机会可以联系我 这是我的邮箱：`cjx5813{at}foxmail.com`
+en: I still try to find a good job on iOS development, please feel free to mail me to provide any opputunity.`cjx5813{at}foxmail.com`
 
-3. en: Now I let this game tobe open sourced, everyone can feel free to use if under MIT licence.
+zh: 本人还在尽力寻找好的iOS开发工作，如果有机会可以联系我 这是我的邮箱：`cjx5813{at}foxmail.com`
 
-3. zh: 现在决定将本游戏开源帮助大家学习，大家可以随意使用
 
-4. en: If you have any question,just contact me by email or post an issue.
-4. zh: 有任何问题可以邮箱联系我或者在issure里面提出。
+en: Now I let this game tobe open sourced, everyone can feel free to use if under MIT licence.
+
+zh: 现在决定将本游戏开源帮助大家学习，大家可以随意使用
+ 
+
+en: If you have any question,just contact me by email or post an issue.
+
+zh: 有任何问题可以邮箱联系我或者在issure里面提出。
 
 # Below are the works produced through this app by our users!!!
 
